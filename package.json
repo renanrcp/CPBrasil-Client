@@ -11,11 +11,11 @@
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
   "bugs": {
-    "url": "https://github.com/Julian45123/CPBrasil/issues"
+    "url": "https://github.com/CPBrasil/CPBrasil-Client/issues"
   },
-  "homepage": "https://github.com/Julian45123/CPBrasil#readme",
-  "repository": "https://github.com/Julian45123/CPBrasil",
-  "author": "Julian45123",
+  "homepage": "https://github.com/CPBrasil/CPBrasil-Client#readme",
+  "repository": "https://github.com/CPBrasil/CPBrasil-Client",
+  "author": "ffilipe0",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^11.3.0",
@@ -37,7 +37,7 @@
     "linux": {
       "publish": "github",
       "target": "deb",
-      "maintainer": "Julian45123",
+      "maintainer": "ffilipe0",
       "icon": "./icon.icns"
     }
   }
